@@ -1,5 +1,8 @@
-# for headings
-## for Double headings
-**for bold**
-- for lists 1
-- for lists 2
+# Heading(#)
+## Heading(##)
+### Heading(###)
+**BOLD** (**Word**)
+- to list 
+- to list
+``` public static void main String[] args(){} ```
+
